@@ -11,10 +11,16 @@
   },
   "dependencies": {
     "@element-plus/icons-vue": "^2.1.0",
+    "@vueuse/core": "^10.1.2",
+    "@vueuse/integrations": "^10.1.2",
+    "axios": "^1.4.0",
     "element-plus": "^2.3.5",
+    "nprogress": "^0.2.0",
     "pinia": "^2.0.36",
+    "universal-cookie": "^4.0.4",
     "vue": "^3.3.2",
-    "vue-router": "^4.2.0"
+    "vue-router": "^4.2.0",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.2.0",

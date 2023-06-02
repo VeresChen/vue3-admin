@@ -2,10 +2,6 @@
   <h2>about</h2>
 </template>
 
-<script setup>
+<script setup></script>
 
-</script>
-
-<style lang="less" scoped>
-  
-</style>
+<style lang="less" scoped></style>

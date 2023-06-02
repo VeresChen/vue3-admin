@@ -1,5 +1,5 @@
 <template>
-  <h2>后台首页</h2>
+  <div>后台首页{{ $store.state.user.username }}</div>
 </template>
 
 <script setup></script>
